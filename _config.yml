@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Dr. He Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Dr. He Zhang"
+description              : &description "Computational Biology III at UTSW"
 url                      : https://drzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drzh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. He Zhang"
   avatar           : #
-  bio              : "Computational Biologist III"
+  bio              : "Computational Biologist III at UT Southwestern Medical Center"
   location         : "UTSW, Dallas, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=YSoPfqQAAAAJ&hl=zh-CN"

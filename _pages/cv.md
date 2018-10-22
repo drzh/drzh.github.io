@@ -11,7 +11,6 @@ redirect_from:
 {% include base_path %}
 
 ### Academic Experience
-==========================
 - **University of Texas Southwestern Medical Center**, Dallas, TX, 01/2016 - present
   - Computational Biologist III
 

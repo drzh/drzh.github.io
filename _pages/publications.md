@@ -12,6 +12,7 @@ author_profile: true
 12.     Holmen OL\*, Zhang H\*, Zhou W\*, Schmidt E, Hovelson DH, Langhammer A, Løchen M-L, Ganesh SK, Mathiesen EB, Vatten L: No large-effect low-frequency coding variation found for myocardial infarction. Human molecular genetics 2014, 23(17):4721-4728. [[PMID:24728188]](https://www.ncbi.nlm.nih.gov/pubmed/24728188)
  15.    Holmen OL\*, Zhang H\*, Fan Y*, Hovelson DH, Schmidt EM, Zhou W, Guo Y, Zhang J, Langhammer A, Løchen M-L: Systematic evaluation of coding variation identifies a candidate causal variant in TM6SF2 influencing total cholesterol and myocardial infarction risk. Nature genetics 2014, 46(4):345-351. [[PMID:24633158]](https://www.ncbi.nlm.nih.gov/pubmed/24633158)
 17.     Zhang H, Jin J, Tang L, Zhao Y, Gu X, et al: PlantTFDB 2.0: update and improvement of the comprehensive plant transcription factor database. Nucleic Acids Research 2011, 39: D1114-D1117. [[PMID:21097470]](https://www.ncbi.nlm.nih.gov/pubmed/21097470)
+
 ## Other papers
 1.      Li HD, Cuevas I, Zhang M, Lu C, Alam MM, Fu YX, You MJ, Akbay EA, Zhang H, Castrillon DH: Polymerase-mediated ultramutagenesis in mice produces diverse cancers with high mutational load. J Clin Invest 2018. [[PMID:30124468]](https://www.ncbi.nlm.nih.gov/pubmed/30124468)
 2.  Hunter RW, Liu Y, Manjunath H, Acharya A, Jones BT, Zhang H, Chen B, Ramalingam H, Hammer RE, Xie Y et al: Loss of Dis3l2 partially phenocopies Perlman syndrome in mice and results in up-regulation of Igf2 in nephron progenitor cells. Genes Dev 2018, 32(13-14):903-908. [[PMID:29950491]](https://www.ncbi.nlm.nih.gov/pubmed/29950491)
@@ -28,5 +29,6 @@ author_profile: true
 20.     Shen L, Gao G, Zhang Y, Zhang H, Ye Z, et al. A single amino acid substitution confers enhanced methylation activity of mammalian Dnmt3b on chromatin DNA. Nucleic Acids Research 2010, 38:6054-6064. [[PMID:20507910]](https://www.ncbi.nlm.nih.gov/pubmed/20507910)
 21.     Li Z, Zhang H, Ge S, Gu X, Gao G, et al: Expression pattern divergence of duplicated genes in rice. BMC Bioinformatics 2009, 10:S8. [[PMID:19534757]](https://www.ncbi.nlm.nih.gov/pubmed/19534757)
 22.     Guo A-Y, Chen X, Gao G, Zhang H, Zhu Q-H, et al: PlantTFDB: a comprehensive plant transcription factor database. Nucleic Acids Research 2008, 36: D966-D969. [[PMID:17933783]](https://www.ncbi.nlm.nih.gov/pubmed/17933783)
+
 ## Book Chapter
 - He K, Guo A, Gao G, Zhu Q, Liu X, Zhang H, Chen X, Gu X, Luo J. (2010) Computational identification of plant transcription factors and the construction of the PlantTFDB database. Computational Biology of Transcription Factor Binding: Springer. pp. 351-368. [[PMID:20827602]](https://www.ncbi.nlm.nih.gov/pubmed/20827602)

@@ -26,5 +26,5 @@ author_profile: true
 7. **Teaching Assistant, _Method in Bioinformatics_**  
     Graduate course, _Peking University_, 2007/09 - 2008/01
 
-8. **Teaching Assistant, _Applied Bioinformatics course_**  
+8. **Teaching Assistant, _Applied Bioinformatics Course_**  
     Graduate course, _Peking University_, 2007/02 - 2008/07

@@ -14,7 +14,7 @@ author_profile: true
 17.     Zhang H, Jin J, Tang L, Zhao Y, Gu X, et al: PlantTFDB 2.0: update and improvement of the comprehensive plant transcription factor database. Nucleic Acids Research 2011, 39: D1114-D1117. [[PMID:21097470]](https://www.ncbi.nlm.nih.gov/pubmed/21097470)
 
 ## Other papers
-1.      Li HD, Cuevas I, Zhang M, Lu C, Alam MM, Fu YX, You MJ, Akbay EA, Zhang H, Castrillon DH: Polymerase-mediated ultramutagenesis in mice produces diverse cancers with high mutational load. J Clin Invest 2018.
+1.      Li HD, Cuevas I, Zhang M, Lu C, Alam MM, Fu YX, You MJ, Akbay EA, Zhang H, Castrillon DH: Polymerase-mediated ultramutagenesis in mice produces diverse cancers with high mutational load. J Clin Invest 2018. [[PMID:30124468]](https://www.ncbi.nlm.nih.gov/pubmed/30124468)
 2.  Hunter RW, Liu Y, Manjunath H, Acharya A, Jones BT, Zhang H, Chen B, Ramalingam H, Hammer RE, Xie Y et al: Loss of Dis3l2 partially phenocopies Perlman syndrome in mice and results in up-regulation of Igf2 in nephron progenitor cells. Genes Dev 2018, 32(13-14):903-908.
 3.      Lu X, Peloso GM, Liu DJ, Wu Y, Zhang H, Zhou W, Li J, Tang CS, Dorajoo R, Li H et al: Exome chip meta-analysis identifies novel loci and East Asian-specific coding variants that contribute to lipid levels and coronary artery disease. Nat Genet 2017, 49(12):1722-1730.
 4.      Kraja AT, Cook JP, Warren HR, Surendran P, Liu C, Evangelou E, Manning AK, Grarup N, Drenos F, Sim X, …, Zhang H, …, et al: New Blood Pressure-Associated Loci Identified in Meta-Analyses of 475 000 Individuals. Circ Cardiovasc Genet 2017, 10(5).

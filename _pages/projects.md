@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Projects at UT Southwestern Medical Center, 2016/01 - present
+## Projects at UT Southwestern Medical Center, 2016/01 - present
 1. **A New Method to Identify Somatic Copy Number Alternations in Tumors**  
     SCNAs were observed frequently in many kinds of tumors. SCNA detection using high-throughput sequencing was becoming popular in recent years. Several methods have been developed for SCNA detection using exome-sequencing data. However, there is a common problem for most of these methods. To give an estimation of copy number, a strong assumption was usually adopted: most regions of the genome don’t have SCNAs. But that assumption is not necessary true in tumor cells, because large scale copy number alterations were observed frequently in tumors. Therefore, I developed a new method to detect SCNAs in tumors based on large-scale sequencing data. In this method, both read depth and allele frequency were considered, and it doesn’t rely on the assumption that there are no large-scale SCNAs in tumor cells. In the evaluation using a published dataset, I compared the performance of DEFOR with the other six methods, and DEFOR has better accuracy than the other methods especially in the situation where there are large-scale SCNAs in the unstable tumor genomes.
 
@@ -19,7 +19,7 @@ author_profile: true
     Kidney cancer is among ten most common cancers in United States. To better understand the genetic mechanism of the different types of kidney cancer, Kidney Cancer Project (KCP) was initiated by Dr. James Brugarolas. I am responsible for processing and analyzing all exome-sequencing data and RNA-sequencing data of 697 samples from 219 patients with kidney cancer.
 To study the possible genetic mechanism under invasion of tumor cells from primary tumor site, samples from thrombus and primary tumor site were compared to identify the difference in somatic mutations and gene expression levels. Although there is no significant difference between thrombus and primary tumor in terms of somatic mutations, we observed several candidate genes with significantly lower expression level in thrombus, including known tumor suppressor genes (e.g. PCDH10 and EYA4). That indicates that down-regulation of tumor suppressor genes may play an important role during the invasion of tumor cells.
 
-### Projects at University of Michigan, 2012/04 – 2016/01
+## Projects at University of Michigan, 2012/04 – 2016/01
 1. **HUNT Whole Genome Sequencing Project**  
     The purpose of this on-going project is to perform whole genome sequencing in 2,202 samples (1,100 MI cases and 1,102 controls) from Norway, and provide a reference panel for association study, population genetics study and imputation. I am leading the analysis of this project, and have performed read-mapping, genotype-calling, quality control and statistical analysis of the sequencing data.
 
@@ -38,7 +38,7 @@ To study the possible genetic mechanism under invasion of tumor cells from prima
 6. GLGC meta-analysis of plasma lipid association study  
     This project involved more than 300,000 samples from 92 studies. I participated in the analysis of ancestry inference, association variants summary and visualization.
 
-### PhD candidate in Peking University, 2006/09 – 2011/07
+## PhD candidate in Peking University, 2006/09 – 2011/07
 
 1. **Phylogeny guided genome alignment method (PGGA)**  
     I developed a method to construct genome alignment and identify duplication and rearrangement in genomes. This method uses a dynamic programming algorithm, and is implemented using C and Perl.

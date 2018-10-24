@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### First and co-first author papers
+# First and co-first author papers
 1.      Zhang H, Brugarolas J, Zhan X, Xie Y: DEFOR: Depth and Frequency Based Copy Number Alternation Detector. (Under review)
 8.      Tang CS\*, Zhang H\*, Cheung CY, Xu M, Ho JC, Zhou W, Cherny SS, Zhang Y, Holmen O, Au K-W, et al: Exome-wide association analysis reveals novel coding sequence variants associated with lipid traits in Chinese. Nature communications 2015, 6. [[PMID:26690388]](https://www.ncbi.nlm.nih.gov/pubmed/26690388)
 11.     Lange LA\*, Hu Y\*, Zhang H\*, Xue C, Schmidt EM, Tang Z-Z, Bizon C, Lange EM, Smith JD, Turner EH: Whole-exome sequencing identifies rare and low-frequency coding variants associated with LDL cholesterol. The American Journal of Human Genetics 2014, 94(2):233-245 [[PMID:24507775]](https://www.ncbi.nlm.nih.gov/pubmed/24507775)
@@ -13,7 +13,7 @@ author_profile: true
  15.    Holmen OL\*, Zhang H\*, Fan Y*, Hovelson DH, Schmidt EM, Zhou W, Guo Y, Zhang J, Langhammer A, Løchen M-L: Systematic evaluation of coding variation identifies a candidate causal variant in TM6SF2 influencing total cholesterol and myocardial infarction risk. Nature genetics 2014, 46(4):345-351. [[PMID:24633158]](https://www.ncbi.nlm.nih.gov/pubmed/24633158)
 17.     Zhang H, Jin J, Tang L, Zhao Y, Gu X, et al: PlantTFDB 2.0: update and improvement of the comprehensive plant transcription factor database. Nucleic Acids Research 2011, 39: D1114-D1117. [[PMID:21097470]](https://www.ncbi.nlm.nih.gov/pubmed/21097470)
 
-### Other papers
+# Other papers
 1.      Li HD, Cuevas I, Zhang M, Lu C, Alam MM, Fu YX, You MJ, Akbay EA, Zhang H, Castrillon DH: Polymerase-mediated ultramutagenesis in mice produces diverse cancers with high mutational load. J Clin Invest 2018.
 2.  Hunter RW, Liu Y, Manjunath H, Acharya A, Jones BT, Zhang H, Chen B, Ramalingam H, Hammer RE, Xie Y et al: Loss of Dis3l2 partially phenocopies Perlman syndrome in mice and results in up-regulation of Igf2 in nephron progenitor cells. Genes Dev 2018, 32(13-14):903-908.
 3.      Lu X, Peloso GM, Liu DJ, Wu Y, Zhang H, Zhou W, Li J, Tang CS, Dorajoo R, Li H et al: Exome chip meta-analysis identifies novel loci and East Asian-specific coding variants that contribute to lipid levels and coronary artery disease. Nat Genet 2017, 49(12):1722-1730.
@@ -30,5 +30,5 @@ author_profile: true
 21.     Li Z, Zhang H, Ge S, Gu X, Gao G, et al: Expression pattern divergence of duplicated genes in rice. BMC Bioinformatics 2009, 10:S8.
 22.     Guo A-Y, Chen X, Gao G, Zhang H, Zhu Q-H, et al: PlantTFDB: a comprehensive plant transcription factor database. Nucleic Acids Research 2008, 36: D966-D969.
 
-### Book Chapter
+# Book Chapter
 - He K, Guo A, Gao G, Zhu Q, Liu X, Zhang H, Chen X, Gu X, Luo J. (2010) Computational identification of plant transcription factors and the construction of the PlantTFDB database. Computational Biology of Transcription Factor Binding: Springer. pp. 351-368.

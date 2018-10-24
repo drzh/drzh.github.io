@@ -5,14 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects at UT Southwestern Medical Center, 2016/06 - present
+### Projects at UT Southwestern Medical Center, 2016/06 - present
 
 
-## Projects at University of Michigan, 2012/04 – 2016/01
+### Projects at University of Michigan, 2012/04 – 2016/01
 1. **HUNT Whole Genome Sequencing Project**
-The purpose of this on-going project is to perform whole genome sequencing in 2,202 samples (1,100 MI cases and 1,102 controls) from Norway, and provide a reference panel for association study, population genetics study and imputation. I am leading the analysis of this project, and have performed read-mapping, genotype-calling, quality control and statistical analysis of the sequencing data.
+
+    The purpose of this on-going project is to perform whole genome sequencing in 2,202 samples (1,100 MI cases and 1,102 controls) from Norway, and provide a reference panel for association study, population genetics study and imputation. I am leading the analysis of this project, and have performed read-mapping, genotype-calling, quality control and statistical analysis of the sequencing data.
+
 2. **GeneZoom**
-GeneZoom is a convenient tool to visualize the association test results at both variant and gene levels. GeneZoom can be used as a program or in our website interface. I participated in the design, development and testing of GeneZoom. The manuscript is in preparation.
+    GeneZoom is a convenient tool to visualize the association test results at both variant and gene levels. GeneZoom can be used as a program or in our website interface. I participated in the design, development and testing of GeneZoom. The manuscript is in preparation.
 ### PUUMA myocardial infarction (MI) and plasma lipid association study 
 The goal of this project is to identify variants associated with MI and plasma lipid levels in a Chinese population. 10,030 samples from China were genotyped using Illumina Human Exome-chip. I performed genotype-calling, quality control and computational analysis for these data. We identified four novel Asian-specific variants associated with plasma lipid values. A first author paper has been submitted.
 4.	NHLBI Exome sequencing project (ESP)

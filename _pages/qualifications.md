@@ -26,7 +26,6 @@ author_profile: true
   - Development of a new method to identify somatic copy number alterations ([DEFOR](https://github.com/drzh/defor/))
   - Development of pipeline for next generation sequencing data
   - Development of [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/)
-  - Designing and implementing statistical models using R
 
 ## Progamming
   - Proficient in linux; Linux server management (Ubuntu, ArchLinux and Gentoo)

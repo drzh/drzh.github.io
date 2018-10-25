@@ -2,14 +2,15 @@
 main:
   - title: "CV"
     url: /cv/
+
+  - title: "Projects"
+    url: /projects/    
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
-
   - title: "Teaching"
     url: /teaching/
     
-
+  - title: "Qualifications"
+    url: /qualifications/

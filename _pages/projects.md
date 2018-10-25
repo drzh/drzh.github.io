@@ -35,7 +35,7 @@ author_profile: true
     The goal of this project is to identify variants associated with MI and plasma lipid levels in Norwegians. 6,000 samples from Norway were genotyped using Illumina Human Exome-chip. I led the analysis of this project, including genotype-calling, quality controls and statistical analysis. We identified a new causal coding variant in _TM6SF2_ associated with total cholesterol, and our collaborators verified its function in mouse model. [[PMID:24633158]](https://www.ncbi.nlm.nih.gov/pubmed/24633158) [[PMID:24728188]](https://www.ncbi.nlm.nih.gov/pubmed/24728188)
 
 6. **GLGC meta-analysis of plasma lipid association study**  
-    This project involved more than 300,000 samples from 92 studies. I participated in the analysis of ancestry inference, association variants summary and visualization.
+    This project involved more than 300,000 samples from 92 studies. I participated in the analysis of ancestry inference, association variants summary and visualization. [[PMID:29083408]](https://www.ncbi.nlm.nih.gov/pubmed/29083408) [[PMID:29083407]](https://www.ncbi.nlm.nih.gov/pubmed/29083407)
 
 ## PhD candidate in Peking University, 2006/09 – 2011/07
 

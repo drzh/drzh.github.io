@@ -28,7 +28,7 @@ author_profile: true
   - Development of [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/)
   - Designing and implementing statistical models using R
 
-## Progamming skills
+## Progamming
   - Proficient in linux; Linux server management (Ubuntu, ArchLinux and Gentoo)
   - Programing using C, Perl, Python and Bash
   - Designing and implementing statistical models using R

@@ -5,7 +5,7 @@ permalink: /qualifications/
 author_profile: true
 ---
 
-## Experience in large-scale genetics studies involving physicians and scientist from different areas
+## Experience in large-scale genetics studies involving physicians and scientists from different areas
   - Leading/led the analysis in the following studies
     - Endometrial cancer project, samples from 96 patients
     - Kidney Cancer Pprojects, 697 tumor and normal samples from 219 patients
@@ -31,9 +31,4 @@ author_profile: true
 ## Skills
   - Proficient in linux; Linux server management (Ubuntu, ArchLinux and Gentoo)
   - Programing using C, Perl, Python and Bash
-  - Design and implen
--	Statistical genetics
-- Population genetics
--	Strong skills in programming using C, Perl, Python and Bash
--	Strong skills in designing and implementing statistical models using R
-
+  - Designing and implementing statistical models using R

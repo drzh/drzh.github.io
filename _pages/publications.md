@@ -37,4 +37,4 @@ author_profile: true
 22.     Guo A-Y, Chen X, Gao G, Zhang H, Zhu Q-H, et al: PlantTFDB: a comprehensive plant transcription factor database. Nucleic Acids Research 2008, 36: D966-D969. [[PMID:17933783]](https://www.ncbi.nlm.nih.gov/pubmed/17933783)
 
 ## Book Chapter
-- He K, Guo A, Gao G, Zhu Q, Liu X, Zhang H, Chen X, Gu X, Luo J. (2010) Computational identification of plant transcription factors and the construction of the PlantTFDB database. Computational Biology of Transcription Factor Binding: Springer. pp. 351-368. [[PMID:20827602]](https://www.ncbi.nlm.nih.gov/pubmed/20827602)
+1.      He K, Guo A, Gao G, Zhu Q, Liu X, Zhang H, Chen X, Gu X, Luo J. (2010) Computational identification of plant transcription factors and the construction of the PlantTFDB database. Computational Biology of Transcription Factor Binding: Springer. pp. 351-368. [[PMID:20827602]](https://www.ncbi.nlm.nih.gov/pubmed/20827602)

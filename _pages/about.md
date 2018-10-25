@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a computational biologist with background in bioinformatics. My recent research strives to understand the genetic mechanisms of cancer and other human diseases using large-scale data.
+I am currently a computational biologist at [UT Southwestern Medical Center](https://www.utsouthwestern.edu/). My recent research strives to understand the genetic mechanisms of cancer and other human diseases using large-scale data. My interests focus on the following areas:
+  - Genetics of human diseases
+  - Cancer genetics
+  - Population genetics
+  - Development of methods to analyze large-scale sequencing data
+

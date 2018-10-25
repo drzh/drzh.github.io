@@ -25,12 +25,15 @@ author_profile: true
 ## Experience in developing bioinformatics pipelines, methods and databases
   - Development of a new method to identify somatic copy number alterations ([DEFOR](https://github.com/drzh/defor/))
   - Development of pipeline for next generation sequencing data
-  - Development of PlantTFDB
+  - Development of [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/)
+  - Designing and implementing statistical models using R
 
-## 
-
--	Solid knowledge in bioinformatics and computational biology
--	Solid knowledge in statistical genetics and population genetics
+## Skills
+  - Proficient in linux; Linux server management (Ubuntu, ArchLinux and Gentoo)
+  - Programing using C, Perl, Python and Bash
+  - Design and implen
+-	Statistical genetics
+- Population genetics
 -	Strong skills in programming using C, Perl, Python and Bash
 -	Strong skills in designing and implementing statistical models using R
 

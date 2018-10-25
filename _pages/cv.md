@@ -16,15 +16,15 @@ redirect_from:
 
 - **University of Michigan**, Ann Arbor, MI, 04/2012 – 01/2016
   - Postdoctoral Research Fellow
-  - Advisor: Dr. Cristen J. Willer
+  - Advisor: Dr. [_Cristen J. Willer_](http://www.umich.edu/~willerim/)
 
 - **Institute of Theoretical Physics, Chinese Academy of Sciences**, Beijing, China, 07/2011 – 04/2012
   - Research Fellow
-  - Advisor: Dr. Weimou Zheng
+  - Advisor: Dr. [_Weimou Zheng_](http://power.itp.ac.cn/~zheng/)
 
 - **Peking University**, Beijing, China, 08/2006 – 07/2011
   - Graduate Research Assistant
-  - Advisor: Dr. Jingchu Luo and Dr. Ge Gao
+  - Advisor: Dr. [_Jingchu Luo_](http://abc.cbi.pku.edu.cn/jcl.php) and Dr. [_Ge Gao_](http://www.gao-lab.org)
 
 ## Education
 - **Peking University**, Beijing, China, 08/2006 – 07/2011

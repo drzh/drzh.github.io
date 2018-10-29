@@ -21,7 +21,7 @@ author_profile: true
   - Exome sequencing
   - RNA sequencing
   - Ribosome profiling (ribo-seq)
-  - Microarray: Agilent SNP arrays, Illumina exome chip, etc
+  - Microarray: Agilent SNP array, Illumina exome chip, etc
 
 ## Experience in developing bioinformatics pipelines, methods and databases
   - Development of a new method to identify somatic copy number alterations ([DEFOR](https://github.com/drzh/defor/))

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. He Zhang"
-  avatar           : #
+  avatar           : "me.jpg"
   bio              : "Computational Biologist III at UT Southwestern Medical Center"
   location         : "UTSW, Dallas, TX"
   employer         :

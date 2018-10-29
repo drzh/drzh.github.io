@@ -31,3 +31,6 @@ author_profile: true
   - Proficient in linux; Linux server management (Ubuntu, ArchLinux and Gentoo)
   - Programing using C, Perl, Python and Bash
   - Designing and implementing statistical models using R
+  -	Database management using MySQL and SQLite
+  -	Web development using PHP, HTML and JavaScript
+

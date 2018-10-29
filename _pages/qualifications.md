@@ -8,6 +8,7 @@ author_profile: true
 ## Experience in large-scale genetics studies involving physicians and scientists from different areas
   - Leading/led the analysis in the following studies
     - Endometrial cancer project, samples from 96 patients
+    - Genome-wide Mutation Landscape in _POLE<sup>P286R<sup>_ Engineered Mice
     - Kidney Cancer Pprojects, 697 tumor and normal samples from 219 patients
     - PUUMA MI and plasma lipid association study, 10030 samples from China
     - HUNT MI and plasma lipid association study, 6000 samples from Norway

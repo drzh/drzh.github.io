@@ -20,13 +20,13 @@ author_profile: true
 
 ## Projects at University of Michigan, 2012/04 – 2016/01
 1. **HUNT Whole Genome Sequencing Project**  
-    The purpose of this on-going project is to perform whole genome sequencing in 2,202 samples (1,100 MI cases and 1,102 controls) from Norway, and provide a reference panel for association study, population genetics study and imputation. I participated in the analysis of this project, and have performed read-mapping, genotype-calling, quality control and statistical analysis of the sequencing data. [[PMID:28861891]](https://www.ncbi.nlm.nih.gov/pubmed/28861891)
+    The purpose of this on-going project is to perform whole genome sequencing in 2,202 samples (1,100 MI cases and 1,102 controls) from Norway, and provide a reference panel for association study, population genetics study and imputation. I participated in the analysis of this project, and performed analysis including reads-mapping, genotype-calling, quality control and association tests. [[PMID:28861891]](https://www.ncbi.nlm.nih.gov/pubmed/28861891)
 
 2. **GeneZoom**  
     GeneZoom is a convenient tool to visualize the association test results at both variant and gene levels. GeneZoom can be used as a program or in our website interface. I participated in the design, development and testing of GeneZoom. The manuscript is in preparation.
 
 3. **PUUMA myocardial infarction (MI) and plasma lipid association study**  
-    The goal of this project is to identify variants associated with MI and plasma lipid levels in a Chinese population. 10,030 samples from China were genotyped using Illumina Human Exome-chip. I led the analysis of this project, including genotype-calling, quality controls and statistical analysis. Finally, we identified four novel Asian-specific variants associated with plasma lipid values, and two of these variants are very low frequent in East Asian population. [[PMID:26690388]](https://www.ncbi.nlm.nih.gov/pubmed/26690388)
+    The goal of this project is to identify variants associated with MI and plasma lipid levels in a Chinese population. 10,030 samples from China were genotyped using Illumina Human Exome-chip. I participated in the design of this study and led the analysis of this project. Finally, we identified four novel Asian-specific variants associated with plasma lipid values, and two of these variants are very low frequent in East Asian population. [[PMID:26690388]](https://www.ncbi.nlm.nih.gov/pubmed/26690388)
 
 4. **NHLBI Exome sequencing project (ESP)**  
     The goal of the NHLBI GO Exome Sequencing Project (ESP) is to discover novel genes and mechanisms contributing to heart, lung and blood disorders by pioneering the application of next-generation sequencing of the protein coding regions of the human genome. I performed gene-based burden tests for LDL-cholesterol based on whole exome sequencing data of 5,500 samples. We identified several low-frequency variants with large effect on LDL-cholesterol. [[PMID:24507775]](https://www.ncbi.nlm.nih.gov/pubmed/24507775)
@@ -35,7 +35,7 @@ author_profile: true
     The goal of this project is to identify variants associated with MI and plasma lipid levels in Norwegians. 6,000 samples from Norway were genotyped using Illumina Human Exome-chip. I led the analysis of this project, including genotype-calling, quality controls and statistical analysis. We identified a new causal coding variant in _TM6SF2_ associated with total cholesterol, and our collaborators verified its function in mouse model. [[PMID:24633158]](https://www.ncbi.nlm.nih.gov/pubmed/24633158) [[PMID:24728188]](https://www.ncbi.nlm.nih.gov/pubmed/24728188)
 
 6. **GLGC meta-analysis of plasma lipid association study**  
-    This project involved more than 300,000 samples from 92 studies. I participated in the analysis of ancestry inference, association variants summary and visualization. [[PMID:29083408]](https://www.ncbi.nlm.nih.gov/pubmed/29083408) [[PMID:29083407]](https://www.ncbi.nlm.nih.gov/pubmed/29083407)
+    This project involved more than 300,000 samples from 92 studies. I participated in the analysis of ancestry inference, variants summary and association tests. [[PMID:29083408]](https://www.ncbi.nlm.nih.gov/pubmed/29083408) [[PMID:29083407]](https://www.ncbi.nlm.nih.gov/pubmed/29083407)
 
 ## PhD candidate in Peking University, 2006/09 – 2011/07
 

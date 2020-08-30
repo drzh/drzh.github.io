@@ -33,7 +33,7 @@ redirect_from:
 
 - **Ocean University of China**, Qingdao, China, 08/2002 – 07/2006
   - B.S. in Biology
-  - Undergraduate minor in Computer Science, 08/2003 – 07/2006
+  - B.S. in Computer Science, 08/2003 – 07/2006
 
 ## Teaching
 -       Instructor, UTSW nanocourse – R Beginer, UTSW, 2017

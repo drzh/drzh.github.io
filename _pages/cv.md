@@ -46,8 +46,8 @@ redirect_from:
 
 ## Publications
 ### First and co-first author papers
-1.      Zhang H, Xie Y: Novel start codons introduce novel coding sequences in the human genomes. Sci Rep 2023, 13(1):8141.
-1.      Zhang H, Zhan X, Brugarolas J, Xie Y: DEFOR: depth- and frequency-based somatic copy number alteration detector. Bioinformatics 2019, 35(19):3824-3825.
+1.      Zhang H, Xie Y: Novel start codons introduce novel coding sequences in the human genomes. Sci Rep 2023, 13(1):8141. [[PMID:37208378]](https://www.ncbi.nlm.nih.gov/pubmed/37208378)
+1.      Zhang H, Zhan X, Brugarolas J, Xie Y: DEFOR: depth- and frequency-based somatic copy number alteration detector. Bioinformatics 2019, 35(19):3824-3825. [[PMID:30860569]](https://www.ncbi.nlm.nih.gov/pubmed/30860569)
 8.      Tang CS\*, Zhang H\*, Cheung CY, Xu M, Ho JC, Zhou W, Cherny SS, Zhang Y, Holmen O, Au K-W, et al: Exome-wide association analysis reveals novel coding sequence variants associated with lipid traits in Chinese. Nature communications 2015, 6. [[PMID:26690388]](https://www.ncbi.nlm.nih.gov/pubmed/26690388)
 11.     Lange LA\*, Hu Y\*, Zhang H\*, Xue C, Schmidt EM, Tang Z-Z, Bizon C, Lange EM, Smith JD, Turner EH: Whole-exome sequencing identifies rare and low-frequency coding variants associated with LDL cholesterol. The American Journal of Human Genetics 2014, 94(2):233-245 [[PMID:24507775]](https://www.ncbi.nlm.nih.gov/pubmed/24507775)
 12.     Holmen OL\*, Zhang H\*, Zhou W\*, Schmidt E, Hovelson DH, Langhammer A, Løchen M-L, Ganesh SK, Mathiesen EB, Vatten L: No large-effect low-frequency coding variation found for myocardial infarction. Human molecular genetics 2014, 23(17):4721-4728. [[PMID:24728188]](https://www.ncbi.nlm.nih.gov/pubmed/24728188)
